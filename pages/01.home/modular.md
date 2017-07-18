@@ -16,4 +16,4 @@ onpage_menu: false
 ---
 
 ## Featured Posts
-### Occaecati curabitur autem mollit! Vestibulum veritatis. Aliquam orci cumque curabitur.
+### See what's happening in the garden.
